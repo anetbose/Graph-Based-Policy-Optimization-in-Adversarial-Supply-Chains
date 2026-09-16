@@ -1,9 +1,6 @@
-[README.md](https://github.com/user-attachments/files/32269981/README.md)
 # Graph-Based Stackelberg Model for Adversarial Supply Chain Enforcement
 
 Ananya Bose
-
-📄 [Read the paper](PAPER_FILENAME.pdf)
 
 *The PDF uses the NeurIPS 2025 template, which is why it lists anonymous authors and a submission notice. It is not currently under review at any venue.*
 
